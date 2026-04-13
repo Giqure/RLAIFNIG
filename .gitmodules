@@ -24,4 +24,4 @@
 	url = https://github.com/cshizhe/VLN-DUET
 [submodule "srdf-af"]
 	path = srdf-af
-	url = git@github.com:Giqure/SRDFAF.git
+	url = https://github.com/Giqure/SRDFAF.git
