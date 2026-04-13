@@ -1,0 +1,9 @@
+# RLAIF-NIG is a legacy prototype, not a git repo — ignore it
+RLAIF-NIG/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,27 @@
+[submodule "EasyR1"]
+	path = EasyR1
+	url = https://github.com/hiyouga/EasyR1
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = https://github.com/hiyouga/LLaMA-Factory
+[submodule "Matterport"]
+	path = Matterport
+	url = https://github.com/niessner/Matterport.git
+[submodule "Matterport3DSimulator"]
+	path = Matterport3DSimulator
+	url = https://github.com/peteanderson80/Matterport3DSimulator
+[submodule "Qwen2.5-VL"]
+	path = Qwen2.5-VL
+	url = https://github.com/QwenLM/Qwen2.5-VL
+[submodule "anonymous-LaF-GRPO"]
+	path = anonymous-LaF-GRPO
+	url = https://github.com/nig4vi/anonymous-LaF-GRPO
+[submodule "trl"]
+	path = trl
+	url = https://github.com/huggingface/trl
+[submodule "VLN-DUET"]
+	path = VLN-DUET
+	url = https://github.com/cshizhe/VLN-DUET
+[submodule "srdf-af"]
+	path = srdf-af
+	url = ./srdf-af
